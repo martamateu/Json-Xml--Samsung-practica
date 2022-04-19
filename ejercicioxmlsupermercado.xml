@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <supermercado_uno>
+    <id>1</id>
+    <nombre>Caprabo</nombre>
+    <direccion>Calle Huertas, 23</direccion>
+    <geolocalizacion>41°24&#x27;12.2 N</geolocalizacion>
+    <geolocalizacion>5°13&#x27;22.0 E</geolocalizacion>
+    <lugar>Sevilla</lugar>
+    <horarioApertura>Lunes a Sábado de 9 - a 21h</horarioApertura>
+    <productos>
+      <id>unoCaprabo</id>
+      <nombre>leche entera</nombre>
+      <seccion>lácteos</seccion>
+      <descripcion>leche entera Hacendado</descripcion>
+      <origen>España</origen>
+      <oferta>false</oferta>
+      <pvp>1.5</pvp>
+      <formato>1 litro</formato>
+      <habitual>true</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <id>dosCaprabo</id>
+      <nombre>salmón ahumado</nombre>
+      <seccion>pescadería</seccion>
+      <descripcion>salmón ahumado en lonchas</descripcion>
+      <origen>Noruega</origen>
+      <oferta>true</oferta>
+      <vigenciaOferta>24/03/21</vigenciaOferta>
+      <vigenciaOferta>28/03/21</vigenciaOferta>
+      <pvp>3.75</pvp>
+      <pvpRebajado>2.55</pvpRebajado>
+      <formato>200 grs.</formato>
+      <habitual>false</habitual>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <id>tresCaprabo</id>
+      <nombre>huevos camperos</nombre>
+      <seccion>lácteos</seccion>
+      <descripcion>huevos gallinas camperas</descripcion>
+      <origen>España</origen>
+      <oferta>false</oferta>
+      <pvp>1.99</pvp>
+      <formato>media docena</formato>
+      <habitual>true</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <id>cuatroCaprabo</id>
+      <nombre>manzanas golden</nombre>
+      <seccion>frutería</seccion>
+      <descripcion>manzanas golden francia</descripcion>
+      <origen>Francia</origen>
+      <oferta>true</oferta>
+      <vigenciaOferta>24/03/21</vigenciaOferta>
+      <vigenciaOferta>24/04/21</vigenciaOferta>
+      <pvp>1.69</pvp>
+      <pvpRebajado>0.95</pvpRebajado>
+      <formato>1 kg.</formato>
+      <habitual>true</habitual>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <id>cincoCaprabo</id>
+      <nombre>queso fresco</nombre>
+      <seccion>lácteos</seccion>
+      <descripcion>queso fresco entrepinares</descripcion>
+      <origen>España</origen>
+      <oferta>false</oferta>
+      <pvp>4.55</pvp>
+      <formato>500 grs.</formato>
+      <habitual>false</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+  </supermercado_uno>
+  <supermercado_dos>
+    <id>2</id>
+    <nombre>Mercadona</nombre>
+    <direccion>Plaza de la Libertad, s/n</direccion>
+    <geolocalizacion>23°10&#x27;0.13 S</geolocalizacion>
+    <geolocalizacion>40°22&#x27;15.35 O</geolocalizacion>
+    <lugar>Sevilla</lugar>
+    <horarioApertura>Lunes a Sábado de 9 - 21:30h</horarioApertura>
+    <productos>
+      <id>unoMercadona</id>
+      <nombre>yogur natural</nombre>
+      <seccion>lácteos</seccion>
+      <descripcion>yogur natural sin azúcar hacendado</descripcion>
+      <origen>Portugal</origen>
+      <oferta>true</oferta>
+      <vigenciaOferta>1/05/21</vigenciaOferta>
+      <pvp>1.65</pvp>
+      <pvpRebajado>1.4</pvpRebajado>
+      <formato>pack de 6 x 125 grs.</formato>
+      <habitual>true</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <id>dosMercadona</id>
+      <nombre>pan de centeno</nombre>
+      <seccion>panadería</seccion>
+      <descripcion>pan de centeno formato ahorro</descripcion>
+      <origen>Alemania</origen>
+      <oferta>false</oferta>
+      <pvp>2.75</pvp>
+      <formato>1 kg.</formato>
+      <habitual>true</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <id>tresMercadona</id>
+      <nombre>aceite de oliva</nombre>
+      <seccion>conservas</seccion>
+      <descripcion>aceite de oliva virgen extra coosur</descripcion>
+      <origen>España</origen>
+      <oferta>true</oferta>
+      <vigenciaOferta>01/03/21</vigenciaOferta>
+      <vigenciaOferta>30/03/21</vigenciaOferta>
+      <pvp>1.85</pvp>
+      <pvpRebajado>1.45</pvpRebajado>
+      <formato>1 L.</formato>
+      <habitual>true</habitual>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <id>cuatroMercadona</id>
+      <nombre>brócoli</nombre>
+      <seccion>frutería</seccion>
+      <descripcion>brócoli manojo huerta</descripcion>
+      <origen>Portugal</origen>
+      <oferta>false</oferta>
+      <pvp>0.85</pvp>
+      <formato>1 kg.</formato>
+      <habitual>false</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <id>cincoMercadona</id>
+      <nombre>garbanzos</nombre>
+      <seccion>conservas</seccion>
+      <descripcion>garbanzos cocidos conserva</descripcion>
+      <origen>España</origen>
+      <oferta>false</oferta>
+      <pvp>1.78</pvp>
+      <formato>500 grs.</formato>
+      <habitual>true</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+  </supermercado_dos>
+  <supermercado_tres>
+    <id>3</id>
+    <nombre>Dia</nombre>
+    <direccion>Pol. Industrial El Jacaral, calle Metalurgia 5</direccion>
+    <geolocalizacion>5°34&#x27;12.1 N</geolocalizacion>
+    <geolocalizacion>13°55&#x27;43.23 E</geolocalizacion>
+    <lugar>Sevilla</lugar>
+    <horarioApertura>Lunes a Sábado de 9:30 - 22h</horarioApertura>
+    <productos>
+      <id>unoDia</id>
+      <nombre>cerveza</nombre>
+      <seccion>bebidas y refrescos</seccion>
+      <descripcion>cerveza reserva pilsen Alhambra</descripcion>
+      <origen>España</origen>
+      <oferta>true</oferta>
+      <vigenciaOferta>1/03/21</vigenciaOferta>
+      <vigenciaOferta>1/04/21</vigenciaOferta>
+      <pvp>8.55</pvp>
+      <pvpRebajado>6.4</pvpRebajado>
+      <formato>pack de 6 x 33 cl.</formato>
+      <habitual>false</habitual>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <id>dosDia</id>
+      <nombre>calamar</nombre>
+      <seccion>congelados</seccion>
+      <descripcion>calamar troceado congelado</descripcion>
+      <origen>Marruecos</origen>
+      <oferta>true</oferta>
+      <vigenciaOferta>27/03/21</vigenciaOferta>
+      <vigenciaOferta>30/03/21</vigenciaOferta>
+      <pvp>5.35</pvp>
+      <pvpRebajado>3.95</pvpRebajado>
+      <formato>1 kg.</formato>
+      <habitual>true</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <id>tresDia</id>
+      <nombre>arroz basmati</nombre>
+      <seccion>pastas y arroz</seccion>
+      <descripcion>arroz basmati jazmín</descripcion>
+      <origen>China</origen>
+      <oferta>false</oferta>
+      <pvp>2.3</pvp>
+      <formato>1 kg.</formato>
+      <habitual>false</habitual>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <id>cuatroDia</id>
+      <nombre>pimienta molida</nombre>
+      <seccion>salsas y condimentos</seccion>
+      <descripcion>pimienta mezcla molida molinillo</descripcion>
+      <origen>España</origen>
+      <oferta>false</oferta>
+      <pvp>0.65</pvp>
+      <formato>45 grs.</formato>
+      <habitual>true</habitual>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <id>cincoDia</id>
+      <nombre>chocolate negro</nombre>
+      <seccion>dulces</seccion>
+      <descripcion>chocolate negro 85%</descripcion>
+      <origen>Ecuador</origen>
+      <oferta>true</oferta>
+      <vigenciaOferta>27/03/21</vigenciaOferta>
+      <vigenciaOferta>30/03/21</vigenciaOferta>
+      <pvp>2.75</pvp>
+      <pvpRebajado>2</pvpRebajado>
+      <formato>200 grs.</formato>
+      <habitual>true</habitual>
+      <adquirido>true</adquirido>
+    </productos>
+  </supermercado_tres>
+</root>
